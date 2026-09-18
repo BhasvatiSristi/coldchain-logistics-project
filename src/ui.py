@@ -295,3 +295,4 @@ elif app_mode == "🛡️ Security & Audit Logs":
                 st.error(f"Database Query Failed: {e}")
         else:
             st.error("❌ Invalid Administrator Credentials.")
+            
